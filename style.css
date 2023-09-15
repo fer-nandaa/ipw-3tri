@@ -9,6 +9,11 @@ p{
   .retangulo{
   width: 200px;
   height: 100px;
+  padding: 10px;
+  margin-top: 10%;
+  margin-left: 40%;
+  margin-right: 50%;
+  border: 5px solid rgb(25, 40, 203);
+  border-radius: 5px;
   background-color: red;
-  
 }
