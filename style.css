@@ -38,3 +38,10 @@ width: 200px;
 :hover.button2{
   color: deepskyblue;
 }
+.container{
+  display: flex;
+}
+.card{
+  border-radius: 20px;
+  margin-left: 10px;
+}
