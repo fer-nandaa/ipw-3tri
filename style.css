@@ -50,6 +50,32 @@ width: 200px;
   margin-top: 100px;
   border-radius: 15%;
 }
+ul{
+  list-style-type: none;
+}
+ul li:before {
+  content: '\2022';
+  margin: 0 2px;
+  color: #e74c3c;
+ }
+ a{
+  color: #b063b6;
+  font-size: 300%;
+ }
+:hover a{
+  color: rgb(136, 17, 247); 
+ }
+
+
+
+
+
+
+
+
+
+    
+}
 
 ul{
   list-style-type: square;
