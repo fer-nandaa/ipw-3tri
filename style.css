@@ -58,7 +58,7 @@ ul li:before {
   margin: 0 2px;
   color: #e74c3c;
  }
-a{
+.a{
   color: #000000;
   font-size: 30px;
   margin-left: 50%;
@@ -69,7 +69,7 @@ a{
   animation-iteration-count: infinite;
   animation-direction: alternate;
  }
-a:hover{
+.a:hover{
   color: rgb(136, 17, 247); 
 
  }
@@ -83,3 +83,26 @@ a:hover{
     width: 100%;
   }
  }
+.h{
+  color: #1e1050;
+  margin-right: 30px;
+}
+.h:hover{
+  color: crimson;
+}
+
+.p{
+  color: coral;
+  margin-right: 30px;
+}
+.p:hover{
+  color: crimson;
+}
+
+.f{
+  color: darkcyan;
+  margin-right: 30px;
+}
+.f:hover{
+  color: crimson;
+}
